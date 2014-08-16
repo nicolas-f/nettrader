@@ -1,0 +1,67 @@
+body {
+	background-color: #000000;
+	scrollbar-face-color: #3F5569;
+	scrollbar-highlight-color: #31404E;
+	scrollbar-shadow-color: #3F5569;
+	scrollbar-3dlight-color: #59748D;
+	scrollbar-arrow-color:  #FFFFFF;
+	scrollbar-track-color: #59748D;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+.titre1 {
+			font-weight: bold; font-size: 22px; font-family: \"Trebuchet MS\",Verdana, Arial, Helvetica, sans-serif;
+			text-decoration: none; line-height : 120%; color : #FFFFFF;
+}
+.titre2 {
+			font-size: 17px; font-family: \"Trebuchet MS\",Verdana, Arial, Helvetica, sans-serif;
+			text-decoration: none; line-height : 100%; color : #FFFFFF;
+}
+.back1	{ background-color: #31404E; border: 0px #98AAB1 solid; }
+.back2	{ background-color: #59748D; border: 2px #59748D solid; }
+.texte1 { font-size : 12px; color : #FFFFFF; }
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif;font-size : 12px;}
+a:link,a:active,a:visited { color : #FFFFFF; }
+a:hover		{ text-decoration: underline; color : #6DC0DB; }
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #FFFFFF; }
+.perte { color: #FF4040;}
+.gain { color : #00FF40; }
+a.gen,a.genmed,a.gensmall { color: #FFFFFF; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #6DC0DB; text-decoration: underline; }
+.mainmenu		{ font-size : 11px; color : #FFFFFF }
+a.mainmenu		{ text-decoration: none; color : #FFFFFF;  }
+a.mainmenu:hover{ text-decoration: underline; color : #6DC0DB; }
+.tab1	{ background-color: #31404E; border: 2px #59748D solid;}
+tr.row3	{ background-color: #59748D; }
+tr.row2	{ background-color: #31404E;font-weight: bold; }
+tr.citation{ background-color: #31404E;}
+tr.row1	{ background-color: #7893AE;font-weight: bold; }
+td.row1	{ background-color: #7893AE; }
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #FFFFFF;
+}
+input.post, textarea.post, select {
+	background-color : #6B8EAD;
+}
+input { text-indent : 2px; }
+input.button {
+	background-color : #59748D;
+	color : #FFFFFF;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; letter-spacing: -1px;}
+a.copyright		{ color: #FFFFFF; text-decoration: none;}
+a.copyright:hover { color: #6DC0DB; text-decoration: underline;}
+select { width:195;}

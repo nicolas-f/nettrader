@@ -1,0 +1,2 @@
+http://fr.table.finance.yahoo.com/table.csv?a=MOISDEB&b=JOURDEBUT&c=ANNEDEBUT&d=MOISFIN&e=JOURFIN&f=ANNEFIN&s=NOMACTION&y=0&g=d&ignore=.csv
+http://ichart.yahoo.com/table.csv?s=CER.PA&d=7&e=2&f=2008&g=d&a=0&b=2&c=2001&ignore=.csv

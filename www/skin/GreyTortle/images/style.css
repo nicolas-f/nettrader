@@ -1,0 +1,128 @@
+BODY {
+font-family: Verdana;
+font-size: 10px;
+color: #000000;
+background-color: #5B535F; 
+margin-top:2px;
+}
+
+.tabprinc {
+border:0;
+cellspacing:5;
+cellspadding:2;
+bgcolor:E7E9F0;
+}
+.perte { color: red; }
+.gain { color : green; }
+
+TD,TH {
+font-family:Verdana;
+font-size:11px;
+}
+
+.footer {
+font-family: Verdana;
+font-size: 10px;
+font-weight:bold;
+color:white;
+text-align:center;
+}
+
+.menu { 
+background-image:url(images/menu_vide.jpg);
+font-family:Verdana;
+font-size:11px;
+font-weight:bold;
+}
+
+.gris {
+background-color:#2B2D33;
+}
+
+.tabtitre { 
+align:left;
+background-color:#D9DFEF;
+}
+
+.titre { 
+font-weight:bold;
+align:left;
+background-color:#BBC2D6;
+}
+
+.citation {
+align:left;
+background-color:#BBC2D6;
+}
+
+.tabclasse { 
+background-color:#FFFFFF;
+}
+
+.hdt { 
+border: 1px solid black; 
+color:#666666; 
+margin-bottom:5px; 
+font-family: Verdana;
+background-color:#FFFFFF
+}
+
+
+.bouton { 
+font-family:Verdana;
+font-size:10px;
+font-weight:bold;
+color:#000000;
+background-color:#FFFFFF;
+border: 1px solid #666666;
+}
+
+
+.textbox { 
+font-family:Verdana;
+font-size:10px;
+color:#000000;
+background-color:#FFFFFF;
+border: 1px solid #666666;
+}
+
+
+.choix { 
+font-family:Verdana;
+font-size:10px;
+color:#000000;
+background-color:#FFFFFF;
+border: 1px solid #666666;
+width:200;
+}
+
+.choixmenu {  
+font-family: arial black; 
+font-size: 14pt; 
+font-style: oblique; 
+font-weight: bold; 
+text-decoration: blink
+}
+
+select { 
+font-family:Verdana;
+font-size:10px;
+color:#000000;
+background-color:#FFFFFF;
+border: 1px solid #666666;
+width:165;
+}
+
+.Lienbas {
+font-family: Verdana;
+font-size: 10px;
+font-weight:bold;
+color:black;
+}
+
+.Liencreateur {
+font-family: Verdana;
+font-size: 10px;
+font-weight:bold;
+color:white;
+}

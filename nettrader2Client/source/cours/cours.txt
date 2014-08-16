@@ -1,0 +1,1 @@
+http://www.euronext.com/tools/datacentre/dataCentreDownloadExcell.jcsv?cha=3044&lan=FR&idInstrument=17049&isinCode=FR0010220475&indexCompo=&opening=&high=&low=&closing=on&volume=on&dateFrom=15/09/2005&dateTo=13/09/2007&typeDownload=2
